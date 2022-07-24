@@ -116,7 +116,7 @@ a.p:hover span {
 	
 <p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2022/06/26 駅東公園プール、動画撮影会 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2022/07/24 駅東公園プール、動画撮影会 !!!</marquee></span></h1>
 
 	
 <br><p>ビデオ撮影は吉澤修平さん、HP立ち上げは羽田が担当しました。</p>
