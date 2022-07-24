@@ -71,7 +71,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://dorikawa.github.io/20210724_ekihigashi_pool/20210724_000.JPG) center/cover no-repeat; 
+  background:url(https://dorikawa.github.io/20210724_ekihigashi_pool/20220724_000.JPG) center/cover no-repeat; 
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -171,7 +171,7 @@ a.p:hover span {
 
 	
 <br><br><p>おまけ、背景原画</p>
-<a href="https://dorikawa.github.io/20210724_ekihigashi_pool/20210724_000.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/20210724_ekihigashi_pool/20210724_000.JPG" alt="サンプル画像" width="560" /></a>
+<a href="https://dorikawa.github.io/20210724_ekihigashi_pool/20220724_000.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/20210724_ekihigashi_pool/20220724_000.JPG" alt="サンプル画像" width="560" /></a>
 
 
 
