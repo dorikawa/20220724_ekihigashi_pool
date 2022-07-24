@@ -71,7 +71,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://dorikawa.github.io/20210704_Utsunomiya_swim/20210704_001.JPG) center/cover no-repeat; 
+  background:url(https://dorikawa.github.io/20210724_ekihigashi_pool/20210724_000.JPG) center/cover no-repeat; 
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -155,16 +155,23 @@ a.p:hover span {
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dChODnvezqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br><br>
+<a href="20220724_001.JPG" data-lightbox="abc"><img src="20220724_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220724_002.JPG" data-lightbox="abc"><img src="20220724_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220724_003.JPG" data-lightbox="abc"><img src="20220724_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220724_004.JPG" data-lightbox="abc"><img src="20220724_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220724_005.JPG" data-lightbox="abc"><img src="20220724_005.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
 
+<h2><a href="https://dorikawa.github.io/20220626_Utsunomiya_swim/" target="_blank" rel="noopener noreferrer">2022年市民大会へのリンクです。</a></h2>
 <h2><a href="https://dorikawa.github.io/20210704_Utsunomiya_swim/" target="_blank" rel="noopener noreferrer">2021年市民大会へのリンクです。</a></h2>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 	
 <br><br><p>おまけ、背景原画</p>
-<a href="https://dorikawa.github.io/20210704_Utsunomiya_swim/20210704_002.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/20210704_Utsunomiya_swim/20210704_002.JPG" alt="サンプル画像" width="560" /></a>
+<a href="https://dorikawa.github.io/20210724_ekihigashi_pool/20210724_000.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/20210724_ekihigashi_pool/20210724_000.JPG" alt="サンプル画像" width="560" /></a>
 
 
 
