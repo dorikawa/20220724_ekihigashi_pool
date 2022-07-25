@@ -125,6 +125,7 @@ a.p:hover span {
 
 <br><br><p>とりあえず、各自の泳ぎYoutubeリンクです。</p>
 
+<br><p>見本とすべき浜田さんの泳ぎ。視聴後のご本人コメントが届きました。<br>「捩じりも前後の伸びも不足しているのがよくわかりました。」</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kmaZ2h14z-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NN_8WhxYfRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -159,8 +160,8 @@ a.p:hover span {
 <br><p>撮影会の光景。</p>
 <a href="20220724_001.JPG" data-lightbox="abc"><img src="20220724_001.JPG" alt="サンプル画像" width="560" /></a>
 <a href="20220724_002.JPG" data-lightbox="abc"><img src="20220724_002.JPG" alt="サンプル画像" width="560" /></a>
-<br><br><p>小5のジュリちゃんは年齢制限で50mプールに入れず、プールサイドで見学。</p>
 <a href="20220724_002.JPG" data-lightbox="abc"><img src="20220724_002.JPG" alt="サンプル画像" width="560" /></a>
+<br><br><p>小5のジュリちゃんは年齢制限で50mプールに入れず、プールサイドで見学。</p>
 <a href="20220724_003.JPG" data-lightbox="abc"><img src="20220724_003.JPG" alt="サンプル画像" width="560" /></a>
 <a href="20220724_004.JPG" data-lightbox="abc"><img src="20220724_004.JPG" alt="サンプル画像" width="560" /></a>
 <a href="20220724_005.JPG" data-lightbox="abc"><img src="20220724_005.JPG" alt="サンプル画像" width="560" /></a>
