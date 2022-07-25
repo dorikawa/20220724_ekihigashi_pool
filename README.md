@@ -118,7 +118,7 @@ a.p:hover span {
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2022/07/24 駅東公園プール、動画撮影会 !!!</marquee></span></h1>
 
-	
+<br><p>ドリームかわちメンバーが撮影会を開催しました。</p>	
 <br><p>ビデオ撮影は吉澤修平さん、HP立ち上げは羽田が担当しました。</p>
 	
 
@@ -156,7 +156,10 @@ a.p:hover span {
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dChODnvezqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br>
+<br><p>撮影会の光景。</p>
 <a href="20220724_001.JPG" data-lightbox="abc"><img src="20220724_001.JPG" alt="サンプル画像" width="560" /></a>
+<a href="20220724_002.JPG" data-lightbox="abc"><img src="20220724_002.JPG" alt="サンプル画像" width="560" /></a>
+<br><p>ジュリちゃんは年齢制限で50mプールに入れず、プールサイドで見学。</p>
 <a href="20220724_002.JPG" data-lightbox="abc"><img src="20220724_002.JPG" alt="サンプル画像" width="560" /></a>
 <a href="20220724_003.JPG" data-lightbox="abc"><img src="20220724_003.JPG" alt="サンプル画像" width="560" /></a>
 <a href="20220724_004.JPG" data-lightbox="abc"><img src="20220724_004.JPG" alt="サンプル画像" width="560" /></a>
