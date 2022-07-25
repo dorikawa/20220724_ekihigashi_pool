@@ -144,11 +144,11 @@ a.p:hover span {
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bMmt6lb0n0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br><br><p>羽田は体内感覚に反して、肩が前に伸びてなく、入水した手が下がってます。<br>キックは左右の足が離れ過ぎてボロボロ〜。</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wP_J1VcuReI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1h3GGC9k6tw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br><br><p>羽田は体内感覚に反して、肩が前に伸びてなく、入水した手が下がってます。<br>キックは左右の足が離れ過ぎてボロボロ〜。</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0d9qNDZZWgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c6_hgUd8_qU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
