@@ -159,7 +159,6 @@ a.p:hover span {
 <br><p>撮影会の光景。</p>
 <a href="20220724_001.JPG" data-lightbox="abc"><img src="20220724_001.JPG" alt="サンプル画像" width="560" /></a>
 <a href="20220724_002.JPG" data-lightbox="abc"><img src="20220724_002.JPG" alt="サンプル画像" width="560" /></a>
-<a href="20220724_002.JPG" data-lightbox="abc"><img src="20220724_002.JPG" alt="サンプル画像" width="560" /></a>
 <br><br><p>小5のジュリちゃんは年齢制限で50mプールに入れず、プールサイドで見学。</p>
 <a href="20220724_003.JPG" data-lightbox="abc"><img src="20220724_003.JPG" alt="サンプル画像" width="560" /></a>
 <a href="20220724_004.JPG" data-lightbox="abc"><img src="20220724_004.JPG" alt="サンプル画像" width="560" /></a>
