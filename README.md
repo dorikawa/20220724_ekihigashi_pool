@@ -125,7 +125,7 @@ a.p:hover span {
 
 <br><br><p>とりあえず、各自の泳ぎYoutubeリンクです。</p>
 
-<br><p>見本とすべき浜田さんの泳ぎ。視聴後のご本人コメントが届きました。<br>「捩じりも前後の伸びも不足しているのがよくわかりました。」</p>
+<br><p>最初の動画は見本とすべき浜田さんの泳ぎ。視聴後のご本人コメントが届きました。<br>「捩じりも前後の伸びも不足しているのがよくわかりました。」</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kmaZ2h14z-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NN_8WhxYfRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -144,6 +144,7 @@ a.p:hover span {
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bMmt6lb0n0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br><br><p>羽田は体内感覚に反して、肩が前に伸びてなく、入水した手が下がってます。<br>キックは左右の足が離れ過ぎてボロボロ〜。</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wP_J1VcuReI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1h3GGC9k6tw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -151,8 +152,6 @@ a.p:hover span {
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0d9qNDZZWgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c6_hgUd8_qU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dChODnvezqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
