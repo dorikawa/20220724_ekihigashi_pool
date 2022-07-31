@@ -165,10 +165,16 @@ a.p:hover span {
 <a href="20220724_005.JPG" data-lightbox="abc"><img src="20220724_005.JPG" alt="サンプル画像" width="560" /></a>
 
 <br><br>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2022/07/31 駅東公園プール、フラダンス !!!</marquee></span></h1>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1diri7Q6Yoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k54G-qYefbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--
 <h2><a href="https://dorikawa.github.io/20220626_Utsunomiya_swim/" target="_blank" rel="noopener noreferrer">2022年市民大会へのリンクです。</a></h2>
 <h2><a href="https://dorikawa.github.io/20210704_Utsunomiya_swim/" target="_blank" rel="noopener noreferrer">2021年市民大会へのリンクです。</a></h2>
-
+-->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 	
