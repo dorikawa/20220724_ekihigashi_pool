@@ -118,7 +118,11 @@ a.p:hover span {
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2022/09/18,19 栃木国体競泳 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2022/09/17,18,19 栃木国体競泳 !!!</marquee></span></h1>
+
+<br><p>17日、成年男子、１００バタ（栃木県の水沼選手が優勝）。</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KW6KxgQrkGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br><p>18日、成年女子、１００フリー。</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MbbYicaN4Us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
