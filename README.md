@@ -116,6 +116,17 @@ a.p:hover span {
 	
 <p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+
+
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2022/09/18,19 栃木国体競泳 !!!</marquee></span></h1>
+<br><p>成年女子、１００フリー。</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MbbYicaN4Us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br><p>成年女子、4００メドレーリレー。</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QLDrF1Zk270" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br><br>
+
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2022/07/24 駅東公園プール、動画撮影会 !!!</marquee></span></h1>
 
 <br><p>ドリームかわちメンバーが撮影会を開催しました。</p>	
