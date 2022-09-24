@@ -129,6 +129,9 @@ a.p:hover span {
 <br><p>19日、成年女子、4００メドレーリレー。</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QLDrF1Zk270" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br><p>19日、成年男子、4００メドレーリレー。</p>
+
+
 <br><br>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2022/07/24 駅東公園プール、動画撮影会 !!!</marquee></span></h1>
